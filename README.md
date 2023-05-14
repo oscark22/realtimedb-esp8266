@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>sensor-realtimedb-esp8266</h2>
+  <h2>RealtimeDB ESP8266</h2>
 </div>
 
 <span>Connection code for ESP8266 and Firebase RealtimeDB</span>
